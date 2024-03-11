@@ -9,7 +9,7 @@
 # BACKEND
 
 - instalar composer install
-- configurar el dbUser y dbPass en src/App/Database.php
+- configurar el dbUser y dbPass en src/App/Database.php, segun la configuracion del local
 - ejecutar el backend (php -S localhost:8080 -t public)
 
 # FRONTEND
@@ -19,7 +19,7 @@
 - ejecutar el front end (npm run dev)
 
 
-# rutas en la apliacion:
+# rutas en la aplicacion:
  http://localhost:5173/
 
 - /: Lista de clientes
